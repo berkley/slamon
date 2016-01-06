@@ -1,0 +1,9 @@
+{
+	"newrelic":{"insightsQueryKey":"5LGObNTs0ZjMvk7YBKKjoutWf2vOGpHq",
+			  "insightsBaseUrl":"insights-api.newrelic.com",
+              "insightsQueryUrl":"/v1/accounts/$accountId/query", 
+              "insightsAccountId":"565031",
+              "syntheticsKey":"7f3b1ca160983ca5bc82eb8021413d40",
+              "syntheticsBaseUrl":"synthetics.newrelic.com",
+              "syntheticsMonitorsUrl":"/synthetics/api/v1/monitors"}
+}
